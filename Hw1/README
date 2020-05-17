@@ -1,0 +1,23 @@
+
+	Hw1
+	
+	
+	環境 :
+	
+		Python 版本 : 3.6.0
+		
+		Python 套件 : numpy、matplotlib
+	
+	執行 :
+	
+		(a), (b), (c), (e) :
+			
+			直接執行目標檔案，例 : python a.py
+
+		(d) :
+		
+			直接執行目標檔案 ( 預設 dataPoint 是 60 )，例 : python d.py
+			
+			or
+			
+			在執行目標檔案的指令後面加上指定 dataPoint 的參數，例 : python d.py 160
