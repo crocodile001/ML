@@ -79,3 +79,7 @@ The model structure shows in following picture.
 You can edit model/cnn.py to modify the model structure.
 
 ![](https://github.com/apie0419/ml-hw/blob/master/hw2/figures/cnn.png)
+
+## Source
+
+https://github.com/apie0419/ml-hw/tree/master/hw2
